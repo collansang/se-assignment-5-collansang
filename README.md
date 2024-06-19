@@ -10,25 +10,26 @@ Answer the following questions based on your understanding of the installation a
 1. Installation of VS Code:
    - Describe the steps to download and install Visual Studio Code on Windows 11 operating system. Include any prerequisites that might be needed.
                                  
-visit https://code.visualstudio.com/Download	click download for windows
-open in downloads and click the install icon to start the installation process
-	accept terms and conditions
-	create a desktop icon and click next
-.Click Install and wait to complete the installation process
-	launch and download some extensions such as code runner, Live Preview, dart, flutter, etc
+i. visit https://code.visualstudio.com/Download	
+ii. click download for windows
+iii. open in downloads and click the install icon to start the installation process
+iv. accept terms and conditions
+v. create a desktop icon and click next
+vi. Click Install and wait to complete the installation process
+vii. launch and download some extensions such as code runner, Live Preview, dart, flutter, etc
 
 2. First-time Setup:
    - After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
-   Theme
-   font
-   turn on autosave
+   i. Theme
+   ii. Font
+   iii. Turn on autosave
    .download the following extensons,
-             1 code runner,
-             2 live preview,
-             3 html css support,
-             4 dart,
-             5 python,
-             6 java script.
+             i.  code runner,
+             ii. live preview,
+             iii.  html css support,
+             iv. dart,
+             v.  python,
+             vi.  java script.
 
 
 3. User Interface Overview:
