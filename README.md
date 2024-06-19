@@ -98,7 +98,8 @@ Create a new folder: Create a new folder for your project by right-clicking in t
 Create a new file: Within the folder, create a new file by right-clicking and selecting New File. Name your file with a relevant name and extension (e.g., .txt, .js, .py, etc.).
 Open an existing file or folder: To open an existing file or folder, navigate to the desired location in the File Explorer and double-click on the file or folder. This will open the file or folder in VS Code.
 Create a new workspace: To manage multiple projects or folders, you can create a new workspace by clicking File > Add Folder to Workspace. This will allow you to open multiple folders and projects simultaneously.
-Navigate between files and directories: To navigate between files and directories, use the Explorer panel on the left-hand side of the VS Code window. You can also use the
+Navigate between files and directories: To navigate between files and directories, use the Explorer panel on the left-hand side of the VS Code window. git add
+
 
 8. Settings and Preferences:
    - Where can users find and customize settings in VS Code? Provide examples of how to change the theme, font size, and keybindings.
@@ -125,6 +126,8 @@ VS Code will now pause at the first breakpoint and allow you to inspect variable
     Open VS Code and navigate to the folder you want to manage with Git
     open your project folder in VS Code. Then, you can initialize a new Git repository by selecting the “Initialize Repository” button in the Source Control view. This creates a new Git repository in the current folder, allowing you to start tracking code changes. Once you have initialized the repository, you can make changes to your code and then commit those changes. To commit changes, you can use the “Commit” button in the Source Control view. You can then enter a commit message and select the files you want to commit. To push your changes to GitHub, you can use the “Publish to GitHub” command button in the Source Control view. You can then choose a name and description for the repository, and whether to make it public or private. Once the repository has been created, VS Code pushes your local code to the remote repository.
 
+references 
+stack overflow
  Submission Guidelines:
 - Your answers should be well-structured, concise, and to the point.
 - Provide screenshots or step-by-step instructions where applicable.
